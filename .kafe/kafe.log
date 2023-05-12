@@ -1,0 +1,310 @@
+kafe 2016-11-03 17:22:48,148 :: WARNING :: Overwriting existing error model for axis 0 of Dataset
+kafe 2016-11-03 17:22:48,149 :: WARNING :: Overwriting existing error model for axis 1 of Dataset
+kafe 2016-11-03 17:23:03,374 :: WARNING :: Overwriting existing error model for axis 0 of Dataset
+kafe 2016-11-03 17:23:03,375 :: WARNING :: Overwriting existing error model for axis 1 of Dataset
+kafe 2016-11-03 17:23:03,375 :: WARNING :: Overwriting existing error model for axis 0 of Dataset
+kafe 2016-11-03 17:23:03,375 :: WARNING :: Overwriting existing error model for axis 1 of Dataset
+kafe 2016-11-03 17:23:22,767 :: WARNING :: Overwriting existing error model for axis 0 of Dataset
+kafe 2016-11-03 17:23:22,768 :: WARNING :: Overwriting existing error model for axis 1 of Dataset
+kafe 2016-11-03 17:23:22,768 :: WARNING :: Overwriting existing error model for axis 0 of Dataset
+kafe 2016-11-03 17:23:22,768 :: WARNING :: Overwriting existing error model for axis 1 of Dataset
+kafe 2016-11-03 17:23:22,769 :: WARNING :: Overwriting existing error model for axis 0 of Dataset
+kafe 2016-11-03 17:23:22,769 :: WARNING :: Overwriting existing error model for axis 1 of Dataset
+kafe 2016-11-03 17:23:22,770 :: WARNING :: Overwriting existing error model for axis 0 of Dataset
+kafe 2016-11-03 17:23:22,770 :: WARNING :: Overwriting existing error model for axis 1 of Dataset
+kafe 2016-11-03 17:23:22,770 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 17:23:42,088 :: WARNING :: Overwriting existing error model for axis 0 of Dataset
+kafe 2016-11-03 17:23:42,088 :: WARNING :: Overwriting existing error model for axis 1 of Dataset
+kafe 2016-11-03 17:23:42,088 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 17:40:46,041 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 17:43:09,856 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 17:43:45,366 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 17:46:01,997 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 17:48:34,970 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 17:50:21,618 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 18:47:20,778 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 18:49:44,249 :: WARNING :: 'input_file' argument to Dataset() is deprecated.Use Dataset.read_from_file() instead.
+kafe 2016-11-03 18:49:44,255 :: WARNING :: 'input_file' argument to Dataset() is deprecated.Use Dataset.read_from_file() instead.
+kafe 2016-11-03 19:07:56,191 :: WARNING :: 'input_file' argument to Dataset() is deprecated.Use Dataset.read_from_file() instead.
+kafe 2016-11-03 19:07:56,217 :: WARNING :: 'input_file' argument to Dataset() is deprecated.Use Dataset.read_from_file() instead.
+kafe 2016-11-03 19:10:05,696 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:12:27,188 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:15:09,252 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:19:48,372 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 19:28:06,227 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 19:29:49,899 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 19:30:32,435 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 19:42:13,230 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:42:13,231 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:42:13,231 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:42:43,152 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:42:43,153 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:42:43,154 :: WARNING :: Warning: Covariance matrix for axis 1 is singular!
+kafe 2016-11-03 19:47:30,284 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 19:48:20,593 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 19:50:56,055 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 20:04:52,104 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 20:08:39,794 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 20:10:51,352 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 20:36:13,056 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 20:42:28,813 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 20:50:21,720 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 20:56:45,438 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 20:57:25,594 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:02:49,913 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:04:13,820 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:04:31,490 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:04:56,115 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:05:27,055 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:07:19,715 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:08:23,624 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:09:34,892 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:15:08,435 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 21:15:51,163 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-03 22:45:32,825 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 10:20:07,336 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 10:20:59,236 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 10:21:18,346 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 10:36:23,713 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 10:37:44,392 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 10:38:05,999 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 10:38:33,509 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 10:39:32,303 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 11:00:56,327 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 11:11:25,225 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 11:16:45,156 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-05 11:17:34,519 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 18:53:04,057 :: WARNING :: 'input_file' argument to Dataset() is deprecated.Use Dataset.read_from_file() instead.
+kafe 2016-11-06 18:53:04,111 :: WARNING :: 'input_file' argument to Dataset() is deprecated.Use Dataset.read_from_file() instead.
+kafe 2016-11-06 18:54:46,441 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 18:55:15,587 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 20:58:09,903 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 20:59:10,151 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 20:59:37,457 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:00:05,312 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:00:36,882 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:07:29,693 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:08:06,536 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:11:40,361 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:18:36,251 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:19:10,994 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:22:59,650 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:23:27,672 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 21:24:05,029 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:50:07,832 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:50:29,999 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:51:37,381 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:52:03,807 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:53:53,258 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:55:01,763 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:57:05,231 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:57:22,949 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 22:59:04,090 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:00:34,511 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:08:37,066 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:09:54,100 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:10:31,473 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:11:31,338 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:11:43,721 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:13:39,958 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:20:55,452 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:21:34,889 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-06 23:23:58,972 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 08:35:44,290 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 08:36:34,921 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 08:55:42,092 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 08:56:25,297 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 08:56:33,594 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 08:57:59,000 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:00:03,240 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:00:30,095 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:00:48,481 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:05:28,293 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:07:09,897 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:52:44,759 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:53:35,658 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:54:10,563 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:57:51,170 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:59:30,706 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 09:59:52,476 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 10:00:21,382 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 10:01:47,223 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 10:17:14,809 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 10:18:02,331 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 10:18:44,144 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 10:19:21,215 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:08:58,852 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:10:25,378 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:13:11,762 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:17:35,238 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:18:10,353 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:31:27,080 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:31:38,677 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:32:36,072 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:32:49,931 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:39:01,035 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:53:09,063 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:53:42,308 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:53:57,219 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:54:18,615 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:54:44,005 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:55:13,962 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:56:55,913 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:57:18,310 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:58:06,919 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:58:55,478 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:59:09,134 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 11:59:24,470 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:00:28,430 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:04:12,897 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:06:02,846 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:06:21,846 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:07:41,187 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:08:27,711 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:09:10,970 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:17:41,054 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 12:25:32,815 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:05:08,340 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:06:36,715 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:08:27,596 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:08:49,231 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:16:05,707 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:17:19,503 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:17:53,669 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:19:06,824 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:20:11,870 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:30:32,736 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:31:25,472 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 13:32:00,844 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:18:48,289 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:31:03,952 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:31:24,828 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:50:46,968 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:53:03,594 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:53:21,157 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:54:16,247 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:55:07,829 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 14:59:57,541 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:00:22,925 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:01:35,367 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:05:44,346 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:06:08,019 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:06:34,696 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:08:04,541 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:08:56,602 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:09:56,626 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:10:39,495 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:11:03,253 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:11:24,265 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:11:48,468 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:29:57,436 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:45:23,830 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:55:47,758 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:56:40,417 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:56:53,093 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:57:31,933 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 15:57:46,948 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:06:16,355 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:06:44,383 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:11:34,324 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:12:46,949 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:13:02,318 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:13:41,756 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:15:00,470 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:16:11,195 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:16:34,488 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:17:16,823 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:23:41,154 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:41:31,616 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:56:11,450 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:57:51,979 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 16:59:32,705 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 17:01:26,461 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:37:48,955 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:38:13,265 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:43:15,046 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:45:28,921 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:45:46,293 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:46:50,258 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:48:02,843 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:48:26,640 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:53:20,036 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:54:43,901 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 18:55:51,821 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:01:00,347 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:18:26,455 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:45:11,867 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:45:26,046 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:49:43,165 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:51:09,550 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:51:34,331 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:52:40,426 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:54:37,008 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:55:11,523 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:55:18,892 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:55:55,439 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:56:26,701 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:56:30,420 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 19:59:01,514 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 20:00:00,689 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-07 20:52:53,674 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 10:48:32,975 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 10:49:10,938 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 10:52:57,614 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 10:53:24,516 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 10:53:48,033 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 10:54:15,313 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 10:54:58,901 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 11:17:06,875 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 11:17:33,965 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 11:18:03,726 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:05:51,424 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:09:28,524 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:14:18,433 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:16:19,935 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:16:41,460 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:17:36,493 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:18:12,699 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:18:46,907 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:19:44,282 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:21:20,192 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:21:42,109 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:22:27,566 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:23:41,247 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:24:50,440 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:26:19,470 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:28:13,445 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:28:33,244 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:28:54,482 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:29:14,806 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:29:45,313 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:35:12,464 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:37:40,348 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:38:06,051 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:48:28,655 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:54:14,342 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:54:32,312 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:55:05,827 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:55:42,039 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:56:10,581 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:57:04,995 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:58:05,610 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:58:17,477 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:58:36,890 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 21:58:45,877 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:08:36,001 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:09:10,774 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:09:42,132 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:09:50,285 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:12:28,307 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:13:05,515 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:14:13,483 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:14:42,828 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:14:59,069 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:15:29,120 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:15:43,375 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:16:11,530 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:16:40,481 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:18:07,813 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:18:21,722 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
+kafe 2016-11-08 22:18:41,836 :: WARNING :: More than one Fit in the same Plot detected. In this case, axis labels default to `x` and `y` and must be set explicitly if something different is desired.
